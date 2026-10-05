@@ -1,0 +1,58 @@
+[
+  {
+    "id": "7d6f6cccc90a3500",
+    "contentType": "image/webp",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmGiov8LxD1Ge7EAP_kqFCLWYQxrtI7hI10kgUfms8X1dfasBSOCrx5LCzcTMJxwVrL1FgOoLdbAQlRMt1ZyUgkW2PLEKvhz5F45KA-5A8iTZB8iUx1ONhiZh835BX_hBr3vHFvwV_EE9f-=s680-w680-h510-rw"
+  },
+  {
+    "id": "02ec4e2faf918559",
+    "contentType": "image/webp",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkUW15l3JIjMI2Ui0IbGVTBYeXAskInxt-ghWDKnjeOAi4JxFFCdIgB7iwuov0oGu3BH71T22CoCpeoW3LBmmEaE-PYjGS28pBrnpPxaUBFZl7E2rvEr5gIyLU5B1telJ97SnfZ2mpv-18e=s680-w680-h510-rw"
+  },
+  {
+    "id": "915f499c4a682d56",
+    "contentType": "image/webp",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlKwSfcxtPWJ4FirZE8dqrgX7TI-lmkxaBbxiy-szFCV5xOTmY8FxftQMeNe_h_ix3nbIeUOB0Qwbew61CbFf6c6LavxQ69hvTUrRfMI6fihZ9D8ulvXDn6FkFblb0KBFMS0YsCysYD01A=s680-w680-h510-rw"
+  },
+  {
+    "id": "07e826e5bc0344ab",
+    "contentType": "image/webp",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmbseCxM_xSjkMORMa87DCG8kQ3fDn6OI9xutlUllrQG3X5X0v_omCz_ojlaqqGPsRUaRWhHGFviuqzXAf7qBHwIZWUwws0aNs1rkYNw6iFZatAJwYV3DawCHhm1hccGgd4a7YkmnetOon9=s680-w680-h510-rw"
+  },
+  {
+    "file": "yomogi-relax-20261005.jpg",
+    "originalFile": "IMG_0847.JPG",
+    "source": "user-provided",
+    "providedDate": "2026-10-05",
+    "contentType": "image/jpeg",
+    "usage": "hero-inset",
+    "processing": "renamed only; displayed with CSS crop"
+  },
+  {
+    "file": "yomogi-session-20261005.jpg",
+    "originalFile": "IMG_0843.JPG",
+    "source": "user-provided",
+    "providedDate": "2026-10-05",
+    "contentType": "image/jpeg",
+    "usage": "care-yomogi",
+    "processing": "renamed only; displayed with CSS crop"
+  },
+  {
+    "file": "footbath-20261005.jpg",
+    "originalFile": "IMG_0842.JPG",
+    "source": "user-provided",
+    "providedDate": "2026-10-05",
+    "contentType": "image/jpeg",
+    "usage": "retained reference; not displayed",
+    "processing": "renamed only"
+  },
+  {
+    "file": "yomogi-space-20261005.jpg",
+    "originalFile": "IMG_2265.jpg",
+    "source": "user-provided",
+    "providedDate": "2026-10-05",
+    "contentType": "image/jpeg",
+    "usage": "retained reference; not displayed",
+    "processing": "renamed only"
+  }
+]
