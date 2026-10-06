@@ -68,3 +68,11 @@
 Node.jsがある場合、このフォルダーで `node preview.cjs` を実行し、http://localhost:4173 を開きます。サーバーは127.0.0.1に限定して待ち受けます。
 
 営業時間や料金変更時には本文も更新してください。初版はGitHubにpush済みです。2026-10-05の更新はローカルで反映しています。
+
+## 2026-10-06 OGP 設定
+
+本番 URL は https://salon-u.nanamemichi.com/ です。LINE などの共有用に、OGP のタイトル・説明・画像・本番 URL・サイト名・日本語ロケールを設定しました。canonical と X/Twitter の summary_large_image も同じ本番 URL と画像を指定しています。
+
+画像は `assets/ogp-20261006.jpg`（1200×630、JPEG、約112KB）。LP の色味・見出しと、既存のカウンセリング写真（assets/line/1789818104664.jpg）、10/5提供のよもぎ蒸し写真（assets/yomogi-relax-20261005.jpg）を配置した共有カードです。写真への生成AI加工・色調補正は行っていません。
+
+今後の共有画像を差し替える際は新しいファイル名にし、og:image と twitter:image の絶対 URL、サイズ、説明を一緒に更新してください。
